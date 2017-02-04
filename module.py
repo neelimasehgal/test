@@ -1,1 +1,3 @@
-blah blah
+import numpy
+
+print "hello"
